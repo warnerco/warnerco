@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @warnerco
-- 👀 I’m interested in becoming an astronaut and a software enginner with my own technology company 
-- 🌱 I’m currently learning python, physics/quantum mechanics, sofware engineering
+- 👀 I’m interested in becoming an astronaut and a software enginner and create my own technology company 
+- 🌱 I’m currently learning python/C++/Java/JavaScript/HTML-CSS/SQL, physics, sofware engineering, application developing
 - 💞️ I’m looking to collaborate on software engineering mastery
-- 📫 How to reach me https://discord.gg/7TxxVDhSmu
+- 📫 How to reach me www.linkedin.com/in/astronnw
 
 <!---
 warnerco/warnerco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
