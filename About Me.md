@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @warnerco
-- 👀 I’m interested in becoming an astronaut and a software enginner and create my own technology company 
+- 👀 I’m interested in becoming an astronaut, software enginner and create my own technology company 
 - 🌱 I’m currently learning python/C++/Java/JavaScript/HTML-CSS/SQL, physics, sofware engineering, application developing
 - 💞️ I’m looking to collaborate on software engineering mastery
 - 📫 How to reach me www.linkedin.com/in/astronnw
